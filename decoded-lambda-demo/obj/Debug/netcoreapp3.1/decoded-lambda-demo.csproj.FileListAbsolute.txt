@@ -1,9 +1,0 @@
-E:\Code\decoded-demos\decoded-lambda-demo\bin\Debug\netcoreapp3.1\decoded-lambda-demo.deps.json
-E:\Code\decoded-demos\decoded-lambda-demo\bin\Debug\netcoreapp3.1\decoded-lambda-demo.dll
-E:\Code\decoded-demos\decoded-lambda-demo\obj\Debug\netcoreapp3.1\decoded-lambda-demo.csprojAssemblyReference.cache
-E:\Code\decoded-demos\decoded-lambda-demo\obj\Debug\netcoreapp3.1\decoded-lambda-demo.AssemblyInfoInputs.cache
-E:\Code\decoded-demos\decoded-lambda-demo\obj\Debug\netcoreapp3.1\decoded-lambda-demo.AssemblyInfo.cs
-E:\Code\decoded-demos\decoded-lambda-demo\obj\Debug\netcoreapp3.1\decoded-lambda-demo.csproj.CoreCompileInputs.cache
-E:\Code\decoded-demos\decoded-lambda-demo\bin\Debug\netcoreapp3.1\decoded-lambda-demo.pdb
-E:\Code\decoded-demos\decoded-lambda-demo\obj\Debug\netcoreapp3.1\decoded-lambda-demo.dll
-E:\Code\decoded-demos\decoded-lambda-demo\obj\Debug\netcoreapp3.1\decoded-lambda-demo.pdb
