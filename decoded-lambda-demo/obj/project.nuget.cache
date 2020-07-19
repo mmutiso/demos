@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxllW5XkIuS5Z3YcrmmYb+BThCKDHqJ2fnS210ioyLh9CWHl1Bwc42QpOuwQOriP4tMwd5IQGDiNeW8yberALw==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\demos\\decoded-lambda-demo\\decoded-lambda-demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\socrates\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\socrates\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.1\\amazon.lambda.serialization.systemtextjson.2.0.1.nupkg.sha512",
+    "C:\\Users\\socrates\\.nuget\\packages\\amazon.lambda.sqsevents\\1.1.0\\amazon.lambda.sqsevents.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
